@@ -1,0 +1,13 @@
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.exe
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.deps.json
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.runtimeconfig.json
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.runtimeconfig.dev.json
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.dll
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\bin\Debug\netcoreapp3.1\ActividadEstudiante.pdb
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.csprojAssemblyReference.cache
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.AssemblyInfoInputs.cache
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.AssemblyInfo.cs
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.csproj.CoreCompileInputs.cache
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.dll
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.pdb
+C:\Proyectos_visual_Studio_2019\ActividadEstudiante\obj\Debug\netcoreapp3.1\ActividadEstudiante.genruntimeconfig.cache
